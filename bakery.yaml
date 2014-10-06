@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Allerta-Regular.ttf.ttx, src/Allerta-Regular.otf.ttx, src/AllertaStencil-Regular.otf.ttx,
+  src/AllertaStencil-Regular-VTT.ttf.ttx, src/Allerta-Regular-VTT.ttf.ttx, src/Allerta-Regular-TTF.sfd,
+  src/AllertaStencil-Regular.sfd, src/AllertaStencil-Regular-TTF.sfd, src/Allerta-Regular.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

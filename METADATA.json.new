@@ -1,0 +1,69 @@
+{
+  "name": "Allerta",
+  "designer": "Matt McInerney",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 12255,
+  "fonts": [
+    {
+      "name": "Allerta",
+      "style": "normal",
+      "weight": 400,
+      "filename": "AllertaStencil-Regular.ttf",
+      "postScriptName": "AllertaStencil-Regular",
+      "fullName": "AllertaStencil-Regular",
+      "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta."
+    },
+    {
+      "name": "Allerta",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Allerta-Regular-TTF.ttf",
+      "postScriptName": "Allerta-Regular",
+      "fullName": "Allerta Regular",
+      "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta.\n"
+    },
+    {
+      "name": "Allerta",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Allerta-Regular.ttf",
+      "postScriptName": "Allerta-Regular",
+      "fullName": "Allerta-Regular",
+      "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta."
+    },
+    {
+      "name": "Allerta",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Allerta-Stencil.ttf",
+      "postScriptName": "Allerta-Stencil",
+      "fullName": "Allerta Stencil",
+      "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>"
+    },
+    {
+      "name": "Allerta",
+      "style": "normal",
+      "weight": 500,
+      "filename": "Allerta-Medium.ttf",
+      "postScriptName": "Allerta-Medium",
+      "fullName": "Allerta Medium",
+      "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>"
+    },
+    {
+      "name": "Allerta",
+      "style": "normal",
+      "weight": 400,
+      "filename": "AllertaStencil-Regular-TTF.ttf",
+      "postScriptName": "AllertaStencil-Regular",
+      "fullName": "Allerta Stencil Regular",
+      "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2010-11-30"
+}
